@@ -60,7 +60,7 @@ ck	Colombia
 cl	Chile
 cm	Cameroon
 -cn	Canada
-co	Curaçao
+co	Cura√ßao
 cou	Colorado
 -cp	Canton and Enderbury Islands
 cq	Comoros
@@ -97,7 +97,7 @@ flu	Florida
 fm	Micronesia (Federated States)
 fp	French Polynesia
 fr	France
-fs	Terres australes et antarctiques françaises
+fs	Terres australes et antarctiques fran√ßaises
 ft	Djibouti
 gau	Georgia
 gb	Kiribati
@@ -140,7 +140,7 @@ ir	Iran
 is	Israel
 it	Italy
 -iu	Israel-Syria Demilitarized Zones
-iv	Côte d'Ivoire
+iv	C√¥te d'Ivoire
 -iw	Israel-Jordan Demilitarized Zones
 iy	Iraq-Saudi Arabia Neutral Zone
 ja	Japan
@@ -252,9 +252,9 @@ pw	Palau
 py	Paraguay
 qa	Qatar
 qea	Queensland
-quc	Québec (Province)
+quc	Qu√©bec (Province)
 rb	Serbia
-re	Réunion
+re	R√©union
 rh	Zimbabwe
 riu	Rhode Island
 rm	Romania
@@ -264,7 +264,7 @@ rw	Rwanda
 -ry	"Ryukyu Islands, Southern"
 sa	South Africa
 -sb	Svalbard
-sc	Saint-Barthélemy
+sc	Saint-Barth√©lemy
 scu	South Carolina
 sd	South Sudan
 sdu	South Dakota
